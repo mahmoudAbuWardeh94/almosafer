@@ -71,9 +71,6 @@ public class HomePage {
 		softassert.assertAll();
 	}
 
-	@Test()
-	public void check_all_logos() {
-		
-	}
+	
 
 }
